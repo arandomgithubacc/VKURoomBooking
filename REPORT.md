@@ -11,8 +11,8 @@
 
 - **Team Members:**
   1. Dư Thị Như Yến — Student ID: 23IT328 — Role: Full-stack Hybrid Mobile Developer — Contribution: 100%
-- **🔗 Live Demo URL:** https://mini-project-1-vku-field-survey-pwa.pages.dev
-- **💻 GitHub Repository:** https://github.com/NhuYen-jpg/Capacitator---View-Survey
+- **🔗 Live Demo URL:** https://expo.dev/artifacts/eas/NIRuaq4DbWajOieec0ImGI2xxh1b9z45F_vJ1XgODTQ.apk
+- **💻 GitHub Repository:** https://github.com/arandomgithubacc/VKURoomBooking.git
 - **🎥 Video Demo (Optional):** N/A
 
 ---
